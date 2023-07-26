@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-ReactDOM.render(<Ganeshaya/>,document.getElementById('root'));
+import { Appcomponent } from './App';
+ReactDOM.render(<Appcomponent/>,document.getElementById('root'));
 // import './index.css';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
